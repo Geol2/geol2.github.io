@@ -7,6 +7,12 @@ defaults:
       sidebar:
         nav: "docs"
 
+
+# index
+sidebar:
+  nav: "docs"
+
+
 docs:
   - title: Notice
     children:
