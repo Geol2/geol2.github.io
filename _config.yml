@@ -279,4 +279,8 @@ defaults:
       comments: true
       share: true
       related: true
-    
+
+# index
+sidebar:
+  title: "Title"
+  nav: "docs"
