@@ -276,13 +276,29 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+
+
+# index
+sidebar:
+  nav: "docs"
+
+  
+default:
+  # _docs
+  - scope:
+    path: ""
+    type: docs
+  values:
+    sidebar:
       nav: "docs"
+
 
 docs:
   - title: Notice
     children:
       - title: "intro"
         url: /Notice/intro
+    
