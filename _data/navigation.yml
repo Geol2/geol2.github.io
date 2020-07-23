@@ -1,0 +1,20 @@
+  default:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+
+
+# index
+sidebar:
+  nav: "docs"
+
+
+docs:
+  - title: Notice
+    children:
+      - title: "intro"
+        url: /Notice/intro
