@@ -283,4 +283,4 @@ defaults:
 # index
 sidebar:
   title: "Title"
-  nav: "docs"
+  nav: docs
