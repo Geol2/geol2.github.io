@@ -12,4 +12,4 @@ docs:
   - title: Notice
     children:
       - title: "intro"
-        url: /Notice/intro
+        url: /docs/intro
