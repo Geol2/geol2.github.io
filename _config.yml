@@ -279,3 +279,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+docs:
+  - title: Notice
+    children:
+      - title: "intro"
+        url: /Notice/intro
