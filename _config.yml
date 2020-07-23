@@ -279,6 +279,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      nav: "docs"
 
 docs:
   - title: Notice
