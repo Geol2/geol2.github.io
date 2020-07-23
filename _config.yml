@@ -279,14 +279,6 @@ defaults:
       comments: true
       share: true
       related: true
-
-
-# index
-sidebar:
-  nav: "docs"
-
-  
-default:
   # _docs
   - scope:
     path: ""
@@ -294,6 +286,11 @@ default:
   values:
     sidebar:
       nav: "docs"
+
+
+# index
+sidebar:
+  nav: "docs"
 
 
 docs:
