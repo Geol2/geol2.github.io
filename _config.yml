@@ -20,7 +20,7 @@ title                    : "GEOL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GEOL"
-description              : "GEOL TIL website."
+description              : "GEOL website."
 url                      : "https://Geol2.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
