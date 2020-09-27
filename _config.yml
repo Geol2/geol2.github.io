@@ -301,9 +301,9 @@ author:
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Korea"
   links:
-    - label: "Made Mistakes"
+    - label: "Made tistory"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://geol2.tistory.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/geol2"
