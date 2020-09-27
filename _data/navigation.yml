@@ -6,3 +6,4 @@ docs:
   - title: Programming
     children:
       - title: "Git Markdown"
+        url: /posts
