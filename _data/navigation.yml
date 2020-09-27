@@ -1,31 +1,5 @@
-docs:
-  - title: Notice
-    children:
-      - title: "intro"
-        url: /docs/intro/
-
-      
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
-
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+    url: /posts/
+  - title: "Tistory Link"
+    url: https://geol2.tistory.com/
