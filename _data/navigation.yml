@@ -1,5 +1,7 @@
 # Topbar
 main:
+  - title: "test"
+    url: /posts/
   - title: "Tistory Link"
     url: https://geol2.tistory.com/
 
