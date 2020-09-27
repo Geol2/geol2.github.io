@@ -8,4 +8,4 @@ docs:
   - title: Programming
     children:
       - title: "Git Markdown"
-        url: /docs/
+        url: /jekyll/update/first-post/
