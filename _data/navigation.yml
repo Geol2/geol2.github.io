@@ -10,4 +10,5 @@ docs:
   - title: Programming
     children:
       - title: "Git Markdown"
+        url: https://geol2.tistory.com/
         text: "TEST"
