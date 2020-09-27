@@ -1,7 +1,7 @@
 # Topbar
 main:
   - title: "test"
-    url: /posts/
+    text: "test"
   - title: "Tistory Link"
     url: https://geol2.tistory.com/
 
@@ -10,4 +10,4 @@ docs:
   - title: Programming
     children:
       - title: "Git Markdown"
-        url: /docs/first-post/
+        text: "TEST"
