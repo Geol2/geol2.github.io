@@ -1,7 +1,9 @@
+# Topbar
 main:
   - title: "Tistory Link"
     url: https://geol2.tistory.com/
 
+# Sidebar
 docs:
   - title: Programming
     children:
