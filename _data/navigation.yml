@@ -1,5 +1,8 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /posts/
   - title: "Tistory Link"
     url: https://geol2.tistory.com/
+
+docs:
+  - title: Programming
+    children:
+      - title: "Git Markdown"

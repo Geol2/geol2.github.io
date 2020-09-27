@@ -279,8 +279,10 @@ defaults:
       comments: true
       share: true
       related: true
-
-# index
-sidebar:
-  title: "Title"
-  nav: "docs"
+  # docs
+  - scopes:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
