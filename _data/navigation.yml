@@ -8,4 +8,4 @@ docs:
   - title: Programming
     children:
       - title: "Git Markdown"
-        url: /docs/first-post/
+        url: /posts/first-post/
