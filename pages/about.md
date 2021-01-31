@@ -13,6 +13,8 @@ permalink: /about/
   - [BaekJoon Online](https://www.acmicpc.net/user/geol2)
 
 
+<br>
+<br>
 
 You can find more information in [Jekyll Paper][jekyll-paper].
 
