@@ -1,6 +1,6 @@
 ---
 title: "Git 블로그 생성"
-date: 2020-09-28 01:56:00 -0400
+date: { page.date | date: “%m/%d/%Y” }}
 categories: jekyll update
 ---
 
