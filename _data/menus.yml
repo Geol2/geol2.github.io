@@ -4,9 +4,9 @@
 - default: menu_category
   url:   "category"
 
-- title: "Jekyll Paper"
+- title: "tistory"
   absoluteUrl: true
-  url: "https://github.com/ghosind/Jekyll-Paper"
+  url: "https://geol2.tistory.com"
 
 - default: menu_about
   url:   "about"
