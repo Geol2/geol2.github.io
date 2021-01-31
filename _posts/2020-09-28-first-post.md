@@ -1,8 +1,10 @@
 ---
-title: "Git 블로그 생성"
+layout: post
+title: "Create Github.io"
 date: 2020-09-28
 last_modified_at: 2021-01-31
-categories: jekyll update
+categories: [Jekyll Paper]
+tags: [Getting Start]
 ---
 
 ## Git
