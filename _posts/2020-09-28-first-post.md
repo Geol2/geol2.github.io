@@ -16,4 +16,5 @@ tags: [Getting Start]
 GitHub 자체에서 블로그를 운영할 수 있으며, git repos에서 `<username>.github.io` 라고 이름을 만들면 운영할 수 있다.<br>
 `jekyll` 테마를 이용하였으며 `Minimal mistakes`를 사용하였다.<br>
 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 로 들어가서 `fork`를 하여 복사한 뒤 프로젝트 이름을 변경하면 된다.<br>
-`_config.yaml` 에서 필요한 설정을 하였으며 추가적으로 인덱스바를 만들어 게시글을 관리할 계획이다.
+
+## Jekyll-Paper 적용
