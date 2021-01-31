@@ -2,7 +2,6 @@
 layout: post
 title: "Create Github.io"
 date: 2020-09-28
-last_modified_at: 2021-01-31
 categories: [Jekyll Paper]
 tags: [Getting Start]
 ---
