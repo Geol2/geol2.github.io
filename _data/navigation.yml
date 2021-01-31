@@ -1,8 +1,6 @@
 # Topbar
 main:
-  - title: "test"
-    text: "test"
-  - title: "Tistory Link"
+  - title: "tistory"
     url: https://geol2.tistory.com/
 
 # Sidebar
